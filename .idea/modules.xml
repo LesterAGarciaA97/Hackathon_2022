@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hackathon_2022.iml" filepath="$PROJECT_DIR$/.idea/Hackathon_2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solución - Nivel 02/Problema 01/Problema01/Problema01.iml" filepath="$PROJECT_DIR$/Solución - Nivel 02/Problema 01/Problema01/Problema01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solución - Nivel 02/Problema 04/Problema04/Problema04.iml" filepath="$PROJECT_DIR$/Solución - Nivel 02/Problema 04/Problema04/Problema04.iml" />
+    </modules>
+  </component>
+</project>
